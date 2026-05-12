@@ -25,3 +25,18 @@ Note: Skipping some earlier sections due to reading some sections of K&R
 - Used to take input from the terminal, and stores it into a variable.
 - Cannot directly store in variable, need to use a pointer & `scanf("%d", &i)`
 
+
+# Chapter 4: Operators
+## Arithemtic operators
+- Similar to the ones in python as well
+
+# Chapter 5: Selection statements
+## 5.1: Logical Expressions
+- Relational operators are the same as python ones
+- Eqaulity operators same as python as well
+- Logical operators:
+    - ! = logical negation -> evalutaes whether an operand is zero or non-zero
+    - && = logical and
+    - || = logical or
+    - These operators produce 0 or 1 as a result
+
